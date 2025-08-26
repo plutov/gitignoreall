@@ -1,1 +1,1 @@
-# gitignoreall
+*
